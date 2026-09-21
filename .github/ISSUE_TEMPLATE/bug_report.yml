@@ -1,0 +1,27 @@
+name: Bug report
+description: Report a reproducible problem using synthetic data.
+title: "[Bug]: "
+body:
+  - type: markdown
+    attributes:
+      value: "For security issues, follow SECURITY.md. Do not attach secrets, personal data, client content or internal infrastructure details."
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: Steps to reproduce
+      description: Include the smallest local example with synthetic data.
+    validations:
+      required: true
+  - type: textarea
+    id: result
+    attributes:
+      label: Expected and actual behavior
+    validations:
+      required: true
+  - type: textarea
+    id: environment
+    attributes:
+      label: Version and environment
+      description: Release or commit, runtime and operating system versions. Exclude hostnames and private paths.
+    validations:
+      required: true

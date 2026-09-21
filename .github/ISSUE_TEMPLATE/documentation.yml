@@ -1,0 +1,17 @@
+name: Documentation improvement
+description: Flag unclear, missing or outdated documentation.
+title: "[Docs]: "
+body:
+  - type: input
+    id: page
+    attributes:
+      label: Document or section
+    validations:
+      required: true
+  - type: textarea
+    id: improvement
+    attributes:
+      label: What needs to change?
+      description: Explain the expected clarification. Use public or synthetic examples only.
+    validations:
+      required: true
