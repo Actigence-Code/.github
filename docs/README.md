@@ -1,6 +1,7 @@
 # Community documentation
 
 - [Organization profile](../profile/README.md)
+- [Service map / Carte de la constellation](CONSTELLATION.md)
 - [Contribution guide](../CONTRIBUTING.md)
 - [Security policy](../SECURITY.md)
 - [Support](../SUPPORT.md)
