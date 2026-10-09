@@ -1,0 +1,6 @@
+{
+  "interfaces": [],
+  "noOwnedInterfaceReason": "Organization profile, issue/PR templates and delivery instructions; no product interface.",
+  "schema": "actigence.core.consumer.v1",
+  "coreRelease": "core-v0.2.0-rc.2"
+}
