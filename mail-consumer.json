@@ -1,0 +1,9 @@
+{
+  "schema": "actigence.mail.consumer.v1",
+  "repository": "Actigence-Code/.github",
+  "delivery": "actigence-mail-only",
+  "smtpSource": "/etc/actigence/mail/smtp2go.env",
+  "fallback": "refuse",
+  "role": "no-owned-smtp-transport",
+  "approvedAdapters": {}
+}

@@ -1,0 +1,5 @@
+
+
+# Canonical SMTP source is never repository material.
+smtp2go.env
+**/smtp2go.env
