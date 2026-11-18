@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/Actigence-Code/.github/main/profile/assets/organization-banner.svg" alt="Actigence Code — une constellation d’outils reliés. Forms, Share, Interact, Links, Stock et Hub partagent une identité et des fondations communes." width="100%">
+<img src="https://raw.githubusercontent.com/Actigence-Code/.github/main/profile/assets/organization-banner.svg" alt="Actigence Code - une constellation d’outils reliés. Forms, Share, Interact, Links, Stock et Hub partagent une identité et des fondations communes." width="100%">
 
 <p align="center">
   <a href="https://actigence.eu"><strong>Actigence · Conseil</strong></a>
